@@ -1,0 +1,20 @@
+{
+  "name": "sadb",
+  "version": "0.0.1",
+  "description": "test discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "manny",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "discord.js": "^11.1.0",
+    "urban": "^0.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "token": "MjMwMDc4MTU0ODIyMjU0NTkz.DG-Upg.1Z69iDM6at2BMUz0vW0vHAhNxM8",
+  "prefix": "!",
+  "apis": {
+    "urban": "http://api.urbandictionary.com/v0/define"
+  }
+}
